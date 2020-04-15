@@ -1,10 +1,11 @@
 h1{
     background: royalblue;
+    color: salmon;
 }
 body{
     background: salmon;
 }
 p{
-    color: snow;
+    color: salmon;
     background: darkred;
 }
