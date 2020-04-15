@@ -1,6 +1,10 @@
 h1{
-    background: lightcoral;
+    background: royalblue;
 }
 body{
-    background: darkcyan;
+    background: salmon;
+}
+p{
+    color: snow;
+    background: darkred;
 }
