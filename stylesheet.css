@@ -1,6 +1,11 @@
 h1{
-    background: lightcoral;
+    background: royalblue;
+    color: salmon;
 }
 body{
-    background: darkcyan;
+    background: salmon;
+}
+p{
+    color: salmon;
+    background: darkred;
 }
